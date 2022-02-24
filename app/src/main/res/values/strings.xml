@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoppingBookApp</string>
+    <string name="notes">Notes</string>
+    <string name="shopping_lists">Shopping lists</string>
+    <string name="new_item">New item</string>
+    <string name="there_are_no_lists_yet">there are no lists yet</string>
+    <string name="there_are_no_notes_yet">there are no notes yet</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="save">Save</string>
+</resources>
