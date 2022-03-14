@@ -71,6 +71,11 @@ class NotesListFragment: BaseFragment(), NoteAdapter.Listener{
     private fun observer(){
         mainViewModel.allNotes.observe(viewLifecycleOwner){
             adapter.submitList(it)
+            binding.tvEmpty.visibility = if (it.isEmpty()) {
+                View.VISIBLE
+            } else {
+                View.GONE
+            }
         }
     }
 

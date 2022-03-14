@@ -3,11 +3,24 @@
     <string name="notes">Notes</string>
     <string name="shopping_lists">Shopping lists</string>
     <string name="new_item">New item</string>
-    <string name="there_are_no_lists_yet">there are no lists yet</string>
-    <string name="there_are_no_notes_yet">there are no notes yet</string>
+    <string name="there_are_no_items_yet">There are no items yet</string>
+    <string name="there_are_no_notes_yet">There are no notes yet</string>
     <string name="hint_title">Title</string>
     <string name="hint_description">Description</string>
     <string name="cancel">Cancel</string>
     <string name="create">Create</string>
     <string name="save">Save</string>
+    <string name="new_list_name">New list name</string>
+    <string name="list_name">List name</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="confirm">Confirm</string>
+    <string name="ask_delete">Do you really want to delete this item?</string>
+    <string name="update_list_item">Update list item</string>
+    <string name="name">Name</string>
+    <string name="item_info">item info</string>
+    <string name="save_item">Save item</string>
+    <string name="delete_list">Delete list</string>
+    <string name="clear_list">Clear list</string>
+    <string name="share_list">Share list</string>
 </resources>

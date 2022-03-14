@@ -86,6 +86,4 @@ class NewNoteActivity : AppCompatActivity() {
         newNoteDescriptionEd.setText(note?.description)
     }
 
-    //добавить кнопку шаре на экран
-
 }

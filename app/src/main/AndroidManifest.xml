@@ -11,6 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShoppingBookApp">
         <activity
+            android:name=".views.activities.ShoppingListActivity"
+            android:exported="false" />
+        <activity
             android:name=".views.activities.NewNoteActivity"
             android:exported="false" />
         <activity
